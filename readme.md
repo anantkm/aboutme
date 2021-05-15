@@ -37,7 +37,8 @@ Even though I chose the courses according to my wish, I can broadly classify the
 | Introduction to Database Systems |   COMP9311  |          |
 
 <br/>
-<div style="text-align: center"____________________________________________________________________________________</div>
+<div style="text-align:center" ____________________________________________________________________________________
+</div>
 
 <br/>
 
