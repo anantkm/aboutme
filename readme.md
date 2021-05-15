@@ -14,7 +14,7 @@ Even though I chose the courses according to my wish, I can broadly classify the
 |            Research Project A            |   COMP9991   |
 |                                          |              |
 
-<br>
+<br/>
 
 # **Machine Learning**
 
