@@ -1,8 +1,8 @@
-This page was created to showcase all the projects associated with the courses completed during my masters. This page serves as a index to all the projects that are hosted on the GitHub. Feel free to fork this project to customise :)
+<div style="text-align: justify"> This page was created to showcase all the projects associated with the courses completed during my masters. This page serves as a index to all the projects that are hosted on the GitHub. Feel free to fork this project to customise :)
 
 
 Even though I chose the courses according to my wish, I can broadly classify them based on 3 categories.
-
+</div>
 
 # **Research**
 
