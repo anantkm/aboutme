@@ -1,18 +1,20 @@
-This page was created to showcase all the projects associated with the courses completed during my masters. This page serves as a index to all the projects that are hosted on the GitHub. Feel free to fork this project to customise :) 
+This page was created to showcase all the projects associated with the courses completed during my masters. This page serves as a index to all the projects that are hosted on the GitHub. Feel free to fork this project to customise :)
 
+</br>
 
 Even though I chose the courses according to my wish, I can broadly classify them based on 3 categories.
 
-<br> 
+</br>
 
 # **Research**
-|                  Course                 	| Course Code 	|
-|:---------------------------------------:	|:-----------:	|
-| Research Project C                     	|   COMP9993  	|
-|            Research Project A           	|   COMP9991  	|
-|                                         	|             	|
 
-<br> 
+|                  Course                  | Course Code  |
+|:---------------------------------------: |:-----------: |
+| Research Project C                      |   COMP9993   |
+|            Research Project A            |   COMP9991   |
+|                                          |              |
+
+<br>
 
 # **Machine Learning**
 
@@ -25,10 +27,10 @@ Even though I chose the courses according to my wish, I can broadly classify the
 |     Data Services Engineering     |   COMP9321  |          |
 |  Extended Artificial Intelligence |   COMP9814  |          |
 
-<br> 
-
+<br>
 
 # **Software Engineering**
+
 |              Course              | Course Code | Projects |
 |:--------------------------------:|:-----------:|:--------:|
 |  Web Data Compression and Search |   COMP9319  |          |
@@ -36,12 +38,10 @@ Even though I chose the courses according to my wish, I can broadly classify the
 |  Data Structures and Algorithms  |   COMP9024  |          |
 | Introduction to Database Systems |   COMP9311  |          |
 
+</br>
+_____________________________________________________________________________
 
 </br>
-_____________________________________________________________________________ 
-
-</br>
-
 
 </br>
 
@@ -52,18 +52,19 @@ _____________________________________________________________________________
 </br>
 
 # T1 2021
-|                  Course                 	| Course Code 	|
-|:---------------------------------------:	|:-----------:	|
-| Security Engineering and Cyber Security 	|   COMP6441  	|
-|            Research Project A           	|   COMP9991  	|
-|                                         	|             	|
+
+|                  Course                  | Course Code  |
+|:---------------------------------------: |:-----------: |
+| Security Engineering and Cyber Security  |   COMP6441   |
+|            Research Project A            |   COMP9991   |
+|                                          |              |
 
 <br>
-
 
 </br>
 
 # T3 2020
+
 | Course | Course Code | Projects |
 |:-:|:-:|:-:|
 | Computer Vision | COMP9517 | [Link](https://anantkm.github.io/aboutme/) |
@@ -71,10 +72,10 @@ _____________________________________________________________________________
 
 <br>
 
-
 </br>
 
 # T2 2020
+
 | Course | Course Code | Projects |
 |:-:|:-:|:-:|
 | Neural Networks and Deep Learning | COMP9444 | [Link](https://anantkm.github.io/aboutme/) |
@@ -83,10 +84,10 @@ _____________________________________________________________________________
 
 <br>
 
-
 </br>
 
 # T1 2020
+
 | Course | Course Code | Projects |
 |:-:|:-:|:-:|
 | Machine Learning and Data Mining | COMP9417 | [Link](https://anantkm.github.io/aboutme/) |
@@ -95,16 +96,15 @@ _____________________________________________________________________________
 
 <br>
 
-
 </br>
 
 # T0 2020
+
 |              Course              | Course Code |                  Projects                  |
 |:--------------------------------:|:-----------:|:------------------------------------------:|
 | Extended Artificial Intelligence |   COMP9814  | [Link](https://anantkm.github.io/aboutme/) |
 
 <br>
-
 
 </br>
 
@@ -115,5 +115,4 @@ _____________________________________________________________________________
 |  Data Structures and Algorithms  |   COMP9024  | [Link](https://anantkm.github.io/aboutme/) |
 | Introduction to Database Systems |   COMP9311  | [Link](https://anantkm.github.io/aboutme/) |
 
-
-[Email](mailto:anmaha@outlook.com.au) / [LinkedIn](https://www.linkedin.com/in/anantkmahale/) / [GitHub](https://github.com/anantkm/) 
+[Email](mailto:anmaha@outlook.com.au) / [LinkedIn](https://www.linkedin.com/in/anantkmahale/) / [GitHub](https://github.com/anantkm/)
