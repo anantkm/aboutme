@@ -1,37 +1,49 @@
-## Welcome to GitHub Pages
+Anant Krishna Mahale
+======
 
-You can use the [editor on GitHub](https://github.com/anantkm/aboutme/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+#### Aspiring for Research or industry positions in Data Science, Machine Learning or Deep learning  
+###### [ [sdsawtelle.github.io](http://sdsawtelle.github.io) ] . [ anantkmahale25@gmail.com ] . [ +61 432908765 ]
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+Education
+---------
+**Ph.D. program in Applied Physics, Yale University** (2012-present)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+- Research on transport in metal nanostructures. 
+- Coursework in physics, engineering, and statistics.
 
-```markdown
-Syntax highlighted code block
+**B.S. in Physics, Indiana University** (2008-2011)
 
-# Header 1
-## Header 2
-### Header 3
+- Baccalaureate with Departmental Honors and Highest Distinction, 3.98/4.0 GPA
 
-- Bulleted
-- List
+**MOOCs** (ongoing)
 
-1. Numbered
-2. List
+- Machine Learning (Stanford, Andrew Ng)
 
-**Bold** and _Italic_ and `Code` text
+Experience
+---------
+**Independent Researcher, Yale University** (2012-present, New Haven CT)
 
-[Link](url) and ![Image](src)
-```
+- Data analysis and simulation in Python and MATLAB, and instrument control in C++. Designed and executed experiments across four projects and managed several undegraduate students.
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+**MCAT Instructor, Kaplan Test Prep** (2011-2012, New Haven CT)
 
-### Jekyll Themes
+- Planned and delivered lectures on core content in undergraduate Physics, Chemistry and Biology to medium-sized groups of undergraduates.
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/anantkm/aboutme/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Skills
+------
+**Programming:** Python, MATLAB, SQL, R, git, HTML/CSS
 
-### Support or Contact
+**Python SciPy Tools:** Pandas, Numpy, Matplotlib, Scikit-learn
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Awards
+------
+- **Sterling Prize Fellowship**, Yale University (2013). Awarded to 30 out of 10,500 applicants.
+- **IU Founders Scholar**, Indiana University (2012)
+- **Baccalaureate with Highest Distinction**, Indiana University (2012). Granted to 5 students out of 498 in the class.
+
+Projects
+--------
+**[*Evening Sessions: Explorations in Data Science and Python* Blog](http://sdsawtelle.github.io/blog/output/index.html)** (2015-present)
+
+- Authored a series of articles covering a wide variety of topics and tools related to pure Python programming, data science and statistics.  
