@@ -36,15 +36,7 @@ Even though I chose the courses according to my wish, I can broadly classify the
 |  Data Structures and Algorithms  |   COMP9024  |          |
 | Introduction to Database Systems |   COMP9311  |          |
 
-<br/>
-<div style="text-align:center"  _____________________________*________*___________________________________
-</div>
 
-<br/>
-
-<br/>
-
-<br/>
 
 ## **Below I have listed courses completed under each term.**
 
