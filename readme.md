@@ -1,4 +1,4 @@
-This page was created to showcase all the projects associated with the courses completed during my masters. 
+This page was created to showcase all the projects associated with the courses completed during my masters. This page serves as a index to all the projects that are hosted on the GitHub. Feel free to fork this project to customise :)
 
 [Email](mailto:anmaha@outlook.com.au) / [LinkedIn](https://www.linkedin.com/in/anantkmahale/) / [GitHub](https://github.com/anantkm/) 
 
