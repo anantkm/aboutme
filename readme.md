@@ -1,10 +1,8 @@
 This page was created to showcase all the projects associated with the courses completed during my masters. This page serves as a index to all the projects that are hosted on the GitHub. Feel free to fork this project to customise :)
 
-</br>
 
 Even though I chose the courses according to my wish, I can broadly classify them based on 3 categories.
 
-</br>
 
 # **Research**
 
@@ -12,6 +10,7 @@ Even though I chose the courses according to my wish, I can broadly classify the
 |:---------------------------------------: |:-----------: |
 | Research Project C                      |   COMP9993   |
 |            Research Project A            |   COMP9991   |
+|                                          |              |  
 
 <br/>
 
@@ -26,7 +25,7 @@ Even though I chose the courses according to my wish, I can broadly classify the
 |     Data Services Engineering     |   COMP9321  |          |
 |  Extended Artificial Intelligence |   COMP9814  |          |
 
-<br>
+<br/>
 
 # **Software Engineering**
 
@@ -58,7 +57,7 @@ _____________________________________________________________________________
 |            Research Project A            |   COMP9991   |
 |                                          |              |
 
-<br>
+<br/>
 
 </br>
 
@@ -69,7 +68,7 @@ _____________________________________________________________________________
 | Computer Vision | COMP9517 | [Link](https://anantkm.github.io/aboutme/) |
 | Software Service Design and Engineering | COMP9322 | [Link](https://anantkm.github.io/aboutme/) |
 
-<br>
+<br/>
 
 </br>
 
@@ -81,7 +80,7 @@ _____________________________________________________________________________
 | Web Data Compression and Search | COMP9319 | [Link](https://anantkm.github.io/aboutme/) |
 | Big Data Management | COMP9313 | [Link](https://anantkm.github.io/aboutme/) |
 
-<br>
+<br/>
 
 </br>
 
@@ -93,7 +92,7 @@ _____________________________________________________________________________
 | Data Services Engineering | COMP9321 | [Link](https://anantkm.github.io/aboutme/) |
 | Engineering Project Management | GSOE9820 |  -  |
 
-<br>
+<br/>
 
 </br>
 
@@ -103,7 +102,7 @@ _____________________________________________________________________________
 |:--------------------------------:|:-----------:|:------------------------------------------:|
 | Extended Artificial Intelligence |   COMP9814  | [Link](https://anantkm.github.io/aboutme/) |
 
-<br>
+<br/>
 
 </br>
 
