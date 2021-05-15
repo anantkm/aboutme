@@ -1,8 +1,6 @@
-# Anant Krishna Mahale
+This page was created to showcase all the projects associated with the courses completed during my masters. 
 
-_Graduate Student at University of New Southwales_ <br>
-
-[Email](mailto:hello@workwithcarolyn.com) / [Website](https://workwithcarolyn.com/) / [LinkedIn](https://www.linkedin.com/in/carolstran/) / [GitHub](https://github.com/carolstran/) / [Twitter](https://twitter.com/carolstran/) / [DEV](https://dev.to/carolstran/)
+[Email](mailto:anmaha@outlook.com.au) / [LinkedIn](https://www.linkedin.com/in/anantkmahale/) / [GitHub](https://github.com/anantkm/) 
 
 ## 👩🏼‍💻 Technical Experience
 
