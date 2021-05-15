@@ -2,4 +2,6 @@ theme: jekyll-theme-cayman
 title: Anant Krishna Mahale
 description: >
   Graduate Student at UNSW Sydney. 
+github:
+  is_project_page: false
   
