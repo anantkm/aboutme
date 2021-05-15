@@ -15,6 +15,7 @@ Even though I chose the courses according to my wish, I can broadly classify the
 <br> 
 
 # **Machine Learning**
+
 |               Course              | Course Code | Projects |
 |:---------------------------------:|:-----------:|----------|
 |          Computer Vision          |   COMP9517  |          |
