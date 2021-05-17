@@ -87,7 +87,4 @@ Even though I chose the courses according to my wish, I can broadly classify the
 </tbody>
 </table>
 
-<br/>
-<center>
-[Email](mailto:anmaha@outlook.com.au) / [LinkedIn](https://www.linkedin.com/in/anantkmahale/) / [GitHub](https://github.com/anantkm/)
-</center>
+
