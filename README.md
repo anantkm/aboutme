@@ -1,5 +1,6 @@
- <link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
-
+<head>
+    <link rel="shortcut icon" type="image/png" href="favicon.png">
+ </head>
 <p>
 
 <div style="text-align: justify"> This page was created to showcase all the projects associated with the courses completed during my masters. This page serves as a index to all the projects that are hosted on the GitHub. Feel free to fork this project to customise :)
