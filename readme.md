@@ -1,5 +1,6 @@
 <div style="text-align: justify"> This page was created to showcase all the projects associated with the courses completed during my masters. This page serves as a index to all the projects that are hosted on the GitHub. Feel free to fork this project to customise :)
 
+<br>
 
 I have chosen "COMPC" - Information Technology as my stream as it provides flexibility to choose the courses that I'm interested in. All my courses can devided into 3 main streams - Research, Machine Learning and Software Engineering.  
 
