@@ -55,82 +55,38 @@ Even though I chose the courses according to my wish, I can broadly classify the
 <br/>
 
 # **Software Engineering**
-
-|              Course              | Course Code | Projects |
-|:--------------------------------:|:-----------:|:--------:|
-|  Web Data Compression and Search |   COMP9319  |          |
-|     Data Services Engineering    |   COMP9321  |          |
-|  Data Structures and Algorithms  |   COMP9024  |          |
-| Introduction to Database Systems |   COMP9311  |          |
-
-
-
-## **Below I have listed courses completed under each term.**
-
-<br/>
-
-# T1 2021
-
-|                  Course                  | Course Code  |
-|:---------------------------------------: |:-----------: |
-| Security Engineering and Cyber Security  |   COMP6441   |
-|            Research Project A            |   COMP9991   |
-|                                          |              |
-
-<br/>
-
-<br/>
-
-# T3 2020
-
-| Course | Course Code | Projects |
-|:-:|:-:|:-:|
-| Computer Vision | COMP9517 | [Link](https://anantkm.github.io/aboutme/) |
-| Software Service Design and Engineering | COMP9322 | [Link](https://anantkm.github.io/aboutme/) |
-
-<br/>
+<table>
+<thead>
+  <tr>
+    <th>Course</th>
+    <th>Course Code</th>
+    <th>Projects</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>Software Service Design and Engineering</td>
+    <td>COMP9322</td>
+    <td>1.Building a dental clinic system using a chatbot and dockerized services<br>Implemented a ML based ChatBot to handle Dental Clinic reservation system. Used Wit.Ai to handle the natural language processing. Containerised each of the services (Chatbot, Time-slot and Dentist Service)<br>Links: <a href="https://github.com/anantkm/chatbot" target="_blank" rel="noopener noreferrer">Project Source Code</a></td>
+  </tr>
+  <tr>
+    <td>Web Data Compression and Search</td>
+    <td>COMP9319</td>
+    <td>1. Implementation of Arithmetic Encoder and Decoder <br>Implemented this solution in C++. Passed all the test cases. <br>Links: <a href="https://github.com/anantkm/ArithmeticCoding" target="_blank" rel="noopener noreferrer">Project Source Code</a>.<br><br>2. Searching &amp; Decoding BWT Encoded DNA Sequence<br>Implemented BWT backward search and a decoder that efficiently decodes BWT encoded DNA file back to their original DNA sequence. The challenge in this assignment was to implement it so efficiently that it beats the execution of binary provided by the professor. I did implement a solution that passed all the test cases and beat the professor code by a good margin.<br>Links: <a href="https://github.com/anantkm/BWT" target="_blank" rel="noopener noreferrer">Project Source Code</a>.</td>
+  </tr>
+  <tr>
+    <td>Data Services Engineering</td>
+    <td>COMP9321</td>
+    <td>1. Data Service for World Bank Economic Indicators<br>Developed a Flask-Restplus data service that allows a client to read and store some publicly available economic indicator data for countries around the world, and allow the consumers to access the data through a REST API.<br>Links: <a href="https://github.com/anantkm/worldbankAPI/blob/master/z5277610.py" target="_blank" rel="noopener noreferrer">Project Source Code</a></td>
+  </tr>
+  <tr>
+    <td>Data Structures and Algorithms</td>
+    <td>COMP9024</td>
+    <td>1. Sydney Transport Planner<br>Implemented a C Program for finding an optimal train connection that takes into account a given arrival time and user preferences.<br>Links: <a href="https://github.com/anantkm/Sydney-Transport-Planner/tree/master/code" target="_blank" rel="noopener noreferrer">Project Source Code</a></td>
+  </tr>
+</tbody>
+</table>
 
 <br/>
-
-# T2 2020
-
-| Course | Course Code | Projects |
-|:-:|:-:|:-:|
-| Neural Networks and Deep Learning | COMP9444 | [Link](https://anantkm.github.io/aboutme/) |
-| Web Data Compression and Search | COMP9319 | [Link](https://anantkm.github.io/aboutme/) |
-| Big Data Management | COMP9313 | [Link](https://anantkm.github.io/aboutme/) |
-
-<br/>
-
-<br/>
-
-# T1 2020
-
-| Course | Course Code | Projects |
-|:-:|:-:|:-:|
-| Machine Learning and Data Mining | COMP9417 | [Link](https://anantkm.github.io/aboutme/) |
-| Data Services Engineering | COMP9321 | [Link](https://anantkm.github.io/aboutme/) |
-| Engineering Project Management | GSOE9820 |  -  |
-
-<br/>
-
-<br/>
-
-# T0 2020
-
-|              Course              | Course Code |                  Projects                  |
-|:--------------------------------:|:-----------:|:------------------------------------------:|
-| Extended Artificial Intelligence |   COMP9814  | [Link](https://anantkm.github.io/aboutme/) |
-
-<br/>
-
-<br/>
-
-# T3 2019
-
-|              Course              | Course Code |                  Projects                  |
-|:--------------------------------:|:-----------:|:------------------------------------------:|
-|  Data Structures and Algorithms  |   COMP9024  | [Link](https://anantkm.github.io/aboutme/) |
-| Introduction to Database Systems |   COMP9311  | [Link](https://anantkm.github.io/aboutme/) |
 
 [Email](mailto:anmaha@outlook.com.au) / [LinkedIn](https://www.linkedin.com/in/anantkmahale/) / [GitHub](https://github.com/anantkm/)
