@@ -6,12 +6,27 @@ Even though I chose the courses according to my wish, I can broadly classify the
 
 # **Research**
 
-|                  Course                  | Course Code  |
-|:---------------------------------------: |:-----------: |
-| Research Project C                      |   COMP9993   |
-|            Research Project A            |   COMP9991   |
-|                                          |              |  
-
+<table>
+<thead>
+  <tr>
+    <th>Course</th>
+    <th>Course Code</th>
+    <th>Projects</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>Research Project C</td>
+    <td>COMP9993</td>
+    <td>I'm still working on this project. Will be updated once done.</td>
+  </tr>
+  <tr>
+    <td>Research Project A</td>
+    <td>COMP9991</td>
+    <td>I'm still working on this project. Will be updated once done.</td>
+  </tr>
+</tbody>
+</table>
 <br/>
 
 # **Machine Learning**
