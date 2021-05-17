@@ -52,8 +52,6 @@ Even though I chose the courses according to my wish, I can broadly classify the
 </tbody>
 </table>
 
-<br/>
-
 # **Software Engineering**
 
 |              Course              | Course Code | Projects |
