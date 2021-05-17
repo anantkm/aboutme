@@ -32,7 +32,7 @@ Even though I chose the courses according to my wish, I can broadly classify the
   <tr>
     <td>Neural Networks and Deep Learning</td>
     <td>COMP9444</td>
-    <td>1. Japanese character recognition <br>Implemented various Neural Networks to solve this problem. Experimented with various hyperparameters influence on each network. The results can be found in the report.  <br><br>Links: <a href="https://github.com/anantkm/JapaneseCharacterRecognition" target="_blank" rel="noopener noreferrer">Project Source Code</a> | <a href="https://github.com/anantkm/JapaneseCharacterRecognition/blob/master/hw1.pdf" target="_blank" rel="noopener noreferrer">Report</a>.<br><br>2. Predicting the product review of products sold on Amazon. <br>With all the constraints in place, implemented text preprocessing methods. Used LSTM with the linear nural network model and a regularizer tnn.dropout to design the network.<br>Links: <a href="https://github.com/anantkm/productReviewPrediction/blob/main/student.py" target="_blank" rel="noopener noreferrer">Project Source Code</a></td>
+    <td>1. Japanese character recognition <br>Implemented various Neural Networks to solve this problem. Experimented with various hyperparameters influence on each network. The results can be found in the report.  <br>Links: <a href="https://github.com/anantkm/JapaneseCharacterRecognition" target="_blank" rel="noopener noreferrer">Project Source Code</a> | <a href="https://github.com/anantkm/JapaneseCharacterRecognition/blob/master/hw1.pdf" target="_blank" rel="noopener noreferrer">Report</a>.<br><br>2. Predicting the product review of products sold on Amazon. <br>With all the constraints in place, implemented text preprocessing methods. Used LSTM with the linear nural network model and a regularizer tnn.dropout to design the network.<br>Links: <a href="https://github.com/anantkm/productReviewPrediction/blob/main/student.py" target="_blank" rel="noopener noreferrer">Project Source Code</a></td>
   </tr>
   <tr>
     <td>Big Data Management</td>
@@ -47,7 +47,7 @@ Even though I chose the courses according to my wish, I can broadly classify the
   <tr>
     <td>Data Services Engineering</td>
     <td>COMP9321</td>
-    <td>1. Revenue and Rating prediction of Movie dataset. <br>Implemented 2 different models to predict Revenue and Rating. Considering the length of the feature vector was large, tried feature reduction techniques. However, given the environment, it was taking a long time to train on UNSW CSE Machine. Hence had to let go of the method. <br>Links: <a href="https://github.com/anantkm/RatingandReviewPrediction/blob/main/z5277610.py" target="_blank" rel="noopener noreferrer">Project Source Code</a> | <a href="https://github.com/anantkm/RatingandReviewPrediction/blob/main/z5277610.pdf" target="_blank" rel="noopener noreferrer">Report</a>.</td>
+    <td>1. Revenue and Rating prediction of the Movie dataset. <br>Implemented 2 different models to predict Revenue and Rating. Considering the length of the feature vector was large, tried feature reduction techniques. However, given the environment, it was taking a long time to train on UNSW CSE Machine. Hence had to let go of the method. <br>Links: <a href="https://github.com/anantkm/RatingandReviewPrediction/blob/main/z5277610.py" target="_blank" rel="noopener noreferrer">Project Source Code</a> | <a href="https://github.com/anantkm/RatingandReviewPrediction/blob/main/z5277610.pdf" target="_blank" rel="noopener noreferrer">Report</a>.</td>
   </tr>
 </tbody>
 </table>
