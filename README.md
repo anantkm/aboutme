@@ -3,7 +3,7 @@
  </head>
 <p>
 
-<div style="text-align: justify"> This page was created to showcase all the projects associated with the courses completed during my masters. This page serves as a index to all the projects that are hosted on the GitHub. Feel free to fork this project to customize :)
+<div style="text-align: justify"> This page was created to showcase all the projects associated with the courses completed during my masters. This page serves as an index to all the projects that are hosted on GitHub. Feel free to fork this project to customize :)
 </div>
 <br>
 
@@ -89,7 +89,7 @@
   <tr>
     <td>Software Service Design and Engineering</td>
     <td>COMP9322</td>
-    <td>1.Building a dental clinic system using a chatbot and dockerized services<br>Implemented a ML based ChatBot to handle Dental Clinic reservation system. Used Wit.Ai to handle the natural language processing. Containerized each of the services (Chatbot, Time-slot and Dentist Service)<br>Links: <a href="https://github.com/anantkm/chatbot" target="_blank" rel="noopener noreferrer">Project Source Code</a></td>
+    <td>1.Building a dental clinic system using a chatbot and dockerized services<br>Implemented an ML-based ChatBot to handle the Dental Clinic reservation system. Used Wit.Ai to handle the natural language processing. Containerized each of the services (Chatbot, Time-slot and Dentist Service)<br>Links: <a href="https://github.com/anantkm/chatbot" target="_blank" rel="noopener noreferrer">Project Source Code</a></td>
   </tr>
   <tr>
     <td>Web Data Compression and Search</td>
