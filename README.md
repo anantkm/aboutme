@@ -3,11 +3,11 @@
  </head>
 <p>
 
-<div style="text-align: justify"> This page was created to showcase all the projects associated with the courses completed during my masters. This page serves as a index to all the projects that are hosted on the GitHub. Feel free to fork this project to customise :)
+<div style="text-align: justify"> This page was created to showcase all the projects associated with the courses completed during my masters. This page serves as a index to all the projects that are hosted on the GitHub. Feel free to fork this project to customize :)
 </div>
 <br>
 
-<div style="text-align: justify"> I have chosen "COMPC" - Information Technology as my stream as it provides flexibility to choose the courses that I'm interested in. All my courses can devided into 3 main streams - Research, Machine Learning and Software Engineering.  
+<div style="text-align: justify"> I have chosen "COMPC" - Information Technology as my stream as it provides flexibility to choose the courses that I'm interested in. All my courses can be divided into 3 main streams - Research, Machine Learning and Software Engineering.  
 </div>
 </p>
 
@@ -49,12 +49,12 @@
   <tr>
     <td>Computer Vision</td>
     <td>COMP9517</td>
-    <td>1. Implementing Connected Component Algorithm<br>In this project, I learned basic operations like adjusting brightness, the contrast of the image and other basic operations of image processing. Mainly this project taught how to implement Iso-data intensity thresholding, generating a binary image from a given image and performing connected component analysis on the image. <br>Links: <a href="https://github.com/anantkm/COMP9517/tree/main/ConnectedComponent" target="_blank" rel="noopener noreferrer">Project Source Code</a> | <a href="https://github.com/anantkm/COMP9517/blob/main/ConnectedComponent/Report.pdf" target="_blank" rel="noopener noreferrer">Report</a>.<br><br>2. Classification of Ara and Tobacco Plants <br>I used HSV colourspace to extract the green part of the plant, I used SIFT and HOG algorithms to extract features and an SVM Classifier to classify the plants. Precision, Recall and ROC were used to evaluate the results. You could read about the techiques and code here.<br>Links:  <a href="https://github.com/anantkm/COMP9517/tree/main/PlantClassification" target="_blank" rel="noopener noreferrer">Report</a>.<br><br>3. Detection and Segmentation of Ara and Tobacco Plants - Group Project<br>There were 3 tasks in this project. Task 1 - To detect the plants in the image, Task 2- creating a binary image of the plant, Task 3- Multi-instance segmentation. I worked on Task 3. <br>Links: <a href="https://github.com/HenryLiangzy/COMP9517_Group" target="_blank" rel="noopener noreferrer">Project Source Code</a> | <a href="https://github.com/anantkm/COMP9517/blob/main/GroupProject/COMP9517_Group_Project_Result.pdf" target="_blank" rel="noopener noreferrer">Report</a>.</td>
+    <td>1. Implementing Connected Component Algorithm<br>In this project, I learned basic operations like adjusting brightness, the contrast of the image and other basic operations of image processing. Mainly this project taught how to implement Iso-data intensity thresholding, generating a binary image from a given image and performing connected component analysis on the image. <br>Links: <a href="https://github.com/anantkm/COMP9517/tree/main/ConnectedComponent" target="_blank" rel="noopener noreferrer">Project Source Code</a> | <a href="https://github.com/anantkm/COMP9517/blob/main/ConnectedComponent/Report.pdf" target="_blank" rel="noopener noreferrer">Report</a>.<br><br>2. Classification of Ara and Tobacco Plants <br>I used HSV colourspace to extract the green part of the plant, I used SIFT and HOG algorithms to extract features and an SVM Classifier to classify the plants. Precision, Recall and ROC were used to evaluate the results. You could read about the techniques and code here.<br>Links:  <a href="https://github.com/anantkm/COMP9517/tree/main/PlantClassification" target="_blank" rel="noopener noreferrer">Report</a>.<br><br>3. Detection and Segmentation of Ara and Tobacco Plants - Group Project<br>There were 3 tasks in this project. Task 1 - To detect the plants in the image, Task 2- creating a binary image of the plant, Task 3- Multi-instance segmentation. I worked on Task 3. <br>Links: <a href="https://github.com/HenryLiangzy/COMP9517_Group" target="_blank" rel="noopener noreferrer">Project Source Code</a> | <a href="https://github.com/anantkm/COMP9517/blob/main/GroupProject/COMP9517_Group_Project_Result.pdf" target="_blank" rel="noopener noreferrer">Report</a>.</td>
   </tr>
   <tr>
     <td>Neural Networks and Deep Learning</td>
     <td>COMP9444</td>
-    <td>1. Japanese character recognition <br>Implemented various Neural Networks to solve this problem. Experimented with various hyperparameters influence on each network. The results can be found in the report.  <br>Links: <a href="https://github.com/anantkm/JapaneseCharacterRecognition" target="_blank" rel="noopener noreferrer">Project Source Code</a> | <a href="https://github.com/anantkm/JapaneseCharacterRecognition/blob/master/hw1.pdf" target="_blank" rel="noopener noreferrer">Report</a>.<br><br>2. Predicting the product review of products sold on Amazon. <br>With all the constraints in place, implemented text preprocessing methods. Used LSTM with the linear nural network model and a regularizer tnn.dropout to design the network.<br>Links: <a href="https://github.com/anantkm/productReviewPrediction/blob/main/student.py" target="_blank" rel="noopener noreferrer">Project Source Code</a></td>
+    <td>1. Japanese character recognition <br>Implemented various Neural Networks to solve this problem. Experimented with various hyperparameters influence on each network. The results can be found in the report.  <br>Links: <a href="https://github.com/anantkm/JapaneseCharacterRecognition" target="_blank" rel="noopener noreferrer">Project Source Code</a> | <a href="https://github.com/anantkm/JapaneseCharacterRecognition/blob/master/hw1.pdf" target="_blank" rel="noopener noreferrer">Report</a>.<br><br>2. Predicting the product review of products sold on Amazon. <br>With all the constraints in place, implemented text preprocessing methods. Used LSTM with the linear neural network model and a regularizer tnn.dropout to design the network.<br>Links: <a href="https://github.com/anantkm/productReviewPrediction/blob/main/student.py" target="_blank" rel="noopener noreferrer">Project Source Code</a></td>
   </tr>
   <tr>
     <td>Big Data Management</td>
@@ -89,7 +89,7 @@
   <tr>
     <td>Software Service Design and Engineering</td>
     <td>COMP9322</td>
-    <td>1.Building a dental clinic system using a chatbot and dockerized services<br>Implemented a ML based ChatBot to handle Dental Clinic reservation system. Used Wit.Ai to handle the natural language processing. Containerised each of the services (Chatbot, Time-slot and Dentist Service)<br>Links: <a href="https://github.com/anantkm/chatbot" target="_blank" rel="noopener noreferrer">Project Source Code</a></td>
+    <td>1.Building a dental clinic system using a chatbot and dockerized services<br>Implemented a ML based ChatBot to handle Dental Clinic reservation system. Used Wit.Ai to handle the natural language processing. Containerized each of the services (Chatbot, Time-slot and Dentist Service)<br>Links: <a href="https://github.com/anantkm/chatbot" target="_blank" rel="noopener noreferrer">Project Source Code</a></td>
   </tr>
   <tr>
     <td>Web Data Compression and Search</td>
@@ -108,5 +108,3 @@
   </tr>
 </tbody>
 </table>
-
-
