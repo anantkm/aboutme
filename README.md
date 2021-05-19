@@ -7,7 +7,7 @@
 </div>
 <br>
 
-<div style="text-align: justify"> I have chosen "COMPC" - Information Technology as my stream as it provides flexibility to choose the courses that I'm interested in. All my courses can be divided into 3 main streams - Research, Machine Learning and Software Engineering.  
+<div style="text-align: justify"> I have chosen "COMPC" - Information Technology as my stream. It provides flexibility to choose the courses that I'm interested in. All my courses can be divided into 3 main streams - Research, Machine Learning and Software Engineering.  
 </div>
 </p>
 
