@@ -25,12 +25,12 @@
   <tr>
     <td>Research Project C</td>
     <td>COMP9993</td>
-    <td>I'm still working on this project. Will be updated once done.</td>
+    <td>Coming Soon</td>
   </tr>
   <tr>
     <td>Research Project A</td>
     <td>COMP9991</td>
-    <td>I'm still working on this project. Will be updated once done.</td>
+    <td>Coming Soon</td>
   </tr>
 </tbody>
 </table>
